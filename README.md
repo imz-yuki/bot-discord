@@ -25,7 +25,7 @@
 ### Các bước
 ```bash
 # 1. Clone repo
-git clone https://github.com/your-username/bot-discord.git
+git clone https://github.com/DEVBYMINH/bot-discord.git
 cd bot-discord
 
 # 2. Cài dependencies
